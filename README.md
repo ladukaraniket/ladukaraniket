@@ -90,9 +90,9 @@
         <img src="https://img.shields.io/badge/dynamic/json?labelColor=black&color=%23ffa116&label=Leetcode%20Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fladukaraniket&logo=leetcode&logoColor=yellow">
     </a>
     &nbsp;
-    <a href="https://lichess.org/@/cybertron21">
+    <!-- <a href="https://lichess.org/@/cybertron21">
         <img src="https://img.shields.io/badge/cybertron21-white?style=social&logo=lichess&label=lichess">
-    </a>
+    </a> -->
 </p>
 
 [linkedin]: https://www.linkedin.com/in/ladukaraniket/
