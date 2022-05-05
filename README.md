@@ -5,13 +5,13 @@
 -   🔭 I’m currently working as a Full Stack developer at [Infosys](https://www.infosys.com/) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 -   🌱 I’m currently learning everything 🤣
--   👯 I’m looking to collaborate on React & Nextjs projects
+-   👯 I’m looking to collaborate on React & NodeJs projects
 -   🥅 2022 Goals: Contribute more to Open Source projects
 -   ⚡ Fun fact: I Love to play chess ♟ and video games 🎮
 
 ### Connect with me:
 
-[![GitHub Atharva](https://img.shields.io/github/followers/ladukaraniket?label=follow&style=social)][github] [![Linkedin: Aniket Ladukar](https://img.shields.io/badge/-Aniket%20Ladukar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ladukaraniket/)][linkedin] 
+[![GitHub Aniket](https://img.shields.io/github/followers/ladukaraniket?label=follow&style=social)][github] [![Linkedin: Aniket Ladukar](https://img.shields.io/badge/-Aniket%20Ladukar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ladukaraniket/)][linkedin] 
 
 ### Languages and Tools:
 
@@ -27,15 +27,15 @@
 
 -   Frameworks/Libraries
 
+    <img alt="reactjs" src="https://img.shields.io/badge/-React-444?&logo=react" height="23px" /> 
+    <img alt="spring" src="https://img.shields.io/badge/-Spring%20Boot-444?logo=Spring" height="23px" />
     <img alt="nodejs" src="https://img.shields.io/badge/-Nodejs-444?&logo=node.js" height="23px" /> 
     <!-- <img alt="graphql" src="https://img.shields.io/badge/-GraphQL-444?&logo=GraphQL&logoColor=E10098" height="23px" />  -->
-    <img alt="reactjs" src="https://img.shields.io/badge/-React-444?&logo=react" height="23px" /> 
-    <img alt="styled-components" src="https://img.shields.io/badge/-Styled%20Components-444?logo=styled-components" h,eight="23px" /> 
-    <img alt="spring" src="https://img.shields.io/badge/-Spring%20Boot-444?logo=Spring" height="23px" />
+    <!-- <img alt="styled-components" src="https://img.shields.io/badge/-Styled%20Components-444?logo=styled-components" h,eight="23px" />  -->
 
 -   Database
 
-    <img alt="redis" src="https://img.shields.io/badge/-Redis-444?&logo=Redis" height="23px" /> 
+    <!-- <img alt="redis" src="https://img.shields.io/badge/-Redis-444?&logo=Redis" height="23px" />  -->
     <img alt="mongodb" src="https://img.shields.io/badge/-MongoDB-444?&logo=MongoDB" height="23px" /> 
     <img alt="mysql" src="https://img.shields.io/badge/-MySQL-444?&logo=MySQL&logoColor=2496ED" height="23px" />
 
