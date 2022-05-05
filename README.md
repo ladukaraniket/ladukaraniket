@@ -60,11 +60,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#27](https://github.com/ladukaraniket/Sorting-Visualizer/issues/27) in [ladukaraniket/Sorting-Visualizer](https://github.com/ladukaraniket/Sorting-Visualizer)
-2. 🎉 Merged PR [#7](https://github.com/Atharva21/cdk-poc/pull/7) in [Atharva21/cdk-poc](https://github.com/Atharva21/cdk-poc)
-3. 🎉 Merged PR [#1](https://github.com/Atharva21/Atharva21/pull/1) in [Atharva21/Atharva21](https://github.com/Atharva21/Atharva21)
-4. 💪 Opened PR [#1](https://github.com/Atharva21/Atharva21/pull/1) in [Atharva21/Atharva21](https://github.com/Atharva21/Atharva21)
-5. ❗️ Opened issue [#19877](https://github.com/timburgan/timburgan/issues/19877) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
+1. 🎉 Merged PR [#26](https://github.com/ladukaraniket/Sorting-Visualizer/pull/26) in [ladukaraniket/Sorting-Visualizer](https://github.com/ladukaraniket/Sorting-Visualizer)
+2. 🎉 Merged PR [#25](https://github.com/ladukaraniket/Sorting-Visualizer/pull/25) in [ladukaraniket/Sorting-Visualizer](https://github.com/ladukaraniket/Sorting-Visualizer)
+3. 🎉 Merged PR [#24](https://github.com/ladukaraniket/Sorting-Visualizer/pull/24) in [ladukaraniket/Sorting-Visualizer](https://github.com/ladukaraniket/Sorting-Visualizer)
+4. 🎉 Merged PR [#23](https://github.com/ladukaraniket/Sorting-Visualizer/pull/23) in [ladukaraniket/Sorting-Visualizer](https://github.com/ladukaraniket/Sorting-Visualizer)
+5. 🎉 Merged PR [#21](https://github.com/ladukaraniket/Sorting-Visualizer/pull/21) in [ladukaraniket/Sorting-Visualizer](https://github.com/ladukaraniket/Sorting-Visualizer)
     <!--END_SECTION:activity-->
     </details>
 ---
