@@ -8,7 +8,7 @@
 -   🌱 I’m currently learning everything 🤣
 -   👯 I’m looking to collaborate on React & NodeJs projects
 -   🥅 2022 Goals: Contribute more to Open Source projects
--   ⚡ Fun fact: I Love to play chess ♟ and video games 🎮
+-   ⚡ Fun fact: I Love to Workout and play video games 🎮 to de-stress
 
 ### Connect with me:
 
