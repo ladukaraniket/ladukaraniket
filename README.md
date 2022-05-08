@@ -1,5 +1,6 @@
 ### Hi there, I'm Aniket 👋
 
+
 ## I'm a Developer with a passion to build impactful things!
 
 -   🔭 I’m currently working as a Full Stack developer at [Infosys](https://www.infosys.com/) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
@@ -52,6 +53,26 @@
     <img alt="git" src="https://img.shields.io/badge/-git-444?&logo=Git" height="23px" />
 
 <br>
+
+
+---
+
+
+<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<br>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/ladukaraniket/confusion" title="confusion"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ladukaraniket&repo=confusion&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/ladukaraniket/conFusionServer" title="conFusionServer"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ladukaraniket&repo=conFusionServer&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/ladukaraniket/Sorting-Visualizer" title="Sorting-Visualizer"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ladukaraniket&repo=Sorting-Visualizer&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<h4 align="center">
+  <a href="https://github.com/ladukaraniket?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+</h4>
+
+
 
 ---
 
