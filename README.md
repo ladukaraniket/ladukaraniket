@@ -81,11 +81,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#26](https://github.com/ladukaraniket/Sorting-Visualizer/pull/26) in [ladukaraniket/Sorting-Visualizer](https://github.com/ladukaraniket/Sorting-Visualizer)
-2. 🎉 Merged PR [#25](https://github.com/ladukaraniket/Sorting-Visualizer/pull/25) in [ladukaraniket/Sorting-Visualizer](https://github.com/ladukaraniket/Sorting-Visualizer)
-3. 🎉 Merged PR [#24](https://github.com/ladukaraniket/Sorting-Visualizer/pull/24) in [ladukaraniket/Sorting-Visualizer](https://github.com/ladukaraniket/Sorting-Visualizer)
-4. 🎉 Merged PR [#23](https://github.com/ladukaraniket/Sorting-Visualizer/pull/23) in [ladukaraniket/Sorting-Visualizer](https://github.com/ladukaraniket/Sorting-Visualizer)
-5. 🎉 Merged PR [#21](https://github.com/ladukaraniket/Sorting-Visualizer/pull/21) in [ladukaraniket/Sorting-Visualizer](https://github.com/ladukaraniket/Sorting-Visualizer)
+1. ❗️ Opened issue [#1](https://github.com/Atharva21/rickroll-bot/issues/1) in [Atharva21/rickroll-bot](https://github.com/Atharva21/rickroll-bot)
+2. 🎉 Merged PR [#26](https://github.com/ladukaraniket/Sorting-Visualizer/pull/26) in [ladukaraniket/Sorting-Visualizer](https://github.com/ladukaraniket/Sorting-Visualizer)
+3. 🎉 Merged PR [#25](https://github.com/ladukaraniket/Sorting-Visualizer/pull/25) in [ladukaraniket/Sorting-Visualizer](https://github.com/ladukaraniket/Sorting-Visualizer)
+4. 🎉 Merged PR [#24](https://github.com/ladukaraniket/Sorting-Visualizer/pull/24) in [ladukaraniket/Sorting-Visualizer](https://github.com/ladukaraniket/Sorting-Visualizer)
+5. 🎉 Merged PR [#23](https://github.com/ladukaraniket/Sorting-Visualizer/pull/23) in [ladukaraniket/Sorting-Visualizer](https://github.com/ladukaraniket/Sorting-Visualizer)
     <!--END_SECTION:activity-->
     </details>
 ---
