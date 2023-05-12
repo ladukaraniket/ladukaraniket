@@ -3,7 +3,7 @@
 
 ## I'm a Developer with a passion to build impactful things!
 
--   🎓 Currently pursuing MS in Computer science at [University of Southern California](https://www.usc.edu/)
+-   🎓 Currently pursuing MS in Computer Science at [University of Southern California](https://www.usc.edu/)
 -   🏢 Previously worked as a Full Stack developer at [Infosys](https://www.infosys.com/) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 -   🌱 I’m currently learning everything 🤣
