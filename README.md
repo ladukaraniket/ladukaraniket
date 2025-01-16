@@ -3,7 +3,8 @@
 
 ## I'm a Developer with a passion to build impactful things!
 
--   🎓 Currently pursuing MS in Computer Science at [University of Southern California](https://www.usc.edu/)
+-   🏢 Fullstack Engineer at [SS8 Networks](https://www.ss8.com/)
+-   🎓 MS in Computer Science @ [University of Southern California](https://www.usc.edu/)
 -   🏢 Previously worked as a Full Stack developer at [Infosys](https://www.infosys.com/) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 -   🌱 I’m currently learning everything 🤣
@@ -56,8 +57,8 @@
 <br>
 
 
+<!---
 ---
-
 
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
@@ -72,7 +73,7 @@
 <h4 align="center">
   <a href="https://github.com/ladukaraniket?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
-
+--->
 
 
 ---
